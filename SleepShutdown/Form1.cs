@@ -171,6 +171,8 @@ namespace SleepShutdown
         {
             if (!disposed)
             {
+                if (mouseHandle != IntPtr.Zero)
+                    UnhookWindowsHookEx(mouseHandle);
                 if (keyBoardHandle != IntPtr.Zero)
                     UnhookWindowsHookEx(keyBoardHandle);
                 disposed = true;
