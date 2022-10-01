@@ -1,5 +1,4 @@
 # SleepShutdown
-A simple program designed to shut down your computer when keyboard, mouse, and a folder have seen no activity for a duration you control.
 
 Usage, Make a shortcut, You can add arguments to the shortcut's target text box,
 
