@@ -21,8 +21,8 @@ namespace SleepShutdown
 
         public Form1(String[] args)
         {
-            double timer;
             InitializeComponent();
+            double timer;
             try
             {
                 double.TryParse(args[0], out timer);
@@ -32,6 +32,7 @@ namespace SleepShutdown
                     watchDirectory = args[1];
             }
             catch { }
+            anyActivity(this, new EventArgs());
         }
 
         private void Form1_Load(object sender, EventArgs e)
