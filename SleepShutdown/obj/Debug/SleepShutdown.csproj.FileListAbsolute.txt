@@ -1,9 +1,0 @@
-D:\Dropbox\Documents\Projects\VS '17 Projects\SleepShutdown\SleepShutdown\bin\Debug\SleepShutdown.exe.config
-D:\Dropbox\Documents\Projects\VS '17 Projects\SleepShutdown\SleepShutdown\bin\Debug\SleepShutdown.exe
-D:\Dropbox\Documents\Projects\VS '17 Projects\SleepShutdown\SleepShutdown\bin\Debug\SleepShutdown.pdb
-D:\Dropbox\Documents\Projects\VS '17 Projects\SleepShutdown\SleepShutdown\obj\Debug\SleepShutdown.Form1.resources
-D:\Dropbox\Documents\Projects\VS '17 Projects\SleepShutdown\SleepShutdown\obj\Debug\SleepShutdown.Properties.Resources.resources
-D:\Dropbox\Documents\Projects\VS '17 Projects\SleepShutdown\SleepShutdown\obj\Debug\SleepShutdown.csproj.GenerateResource.Cache
-D:\Dropbox\Documents\Projects\VS '17 Projects\SleepShutdown\SleepShutdown\obj\Debug\SleepShutdown.csproj.CoreCompileInputs.cache
-D:\Dropbox\Documents\Projects\VS '17 Projects\SleepShutdown\SleepShutdown\obj\Debug\SleepShutdown.exe
-D:\Dropbox\Documents\Projects\VS '17 Projects\SleepShutdown\SleepShutdown\obj\Debug\SleepShutdown.pdb
